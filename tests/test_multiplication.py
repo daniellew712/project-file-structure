@@ -1,4 +1,5 @@
-import multiplication
+from sourcecode import multiplication
+from sourcecode import addition
 
 def test_multiplication():
     # Assert
